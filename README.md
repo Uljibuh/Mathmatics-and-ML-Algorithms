@@ -6,8 +6,12 @@ ML math and ML Algorithms from scratch in Python
 
 **ML algorithms from scratch**
 
-inear regression**
+neural network
 
-decision tree**
+logistic regression
 
-support vector machine**
+linear regression
+
+decision tree
+
+support vector machine
