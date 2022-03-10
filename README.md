@@ -15,3 +15,5 @@ linear regression
 decision tree
 
 support vector machine
+
+principle components analysis
