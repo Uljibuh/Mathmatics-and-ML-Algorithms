@@ -17,3 +17,5 @@ decision tree
 support vector machine
 
 principle components analysis
+
+Markov Chain Simulation
